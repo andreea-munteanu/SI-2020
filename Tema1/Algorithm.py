@@ -214,3 +214,5 @@ def main() :
         print("Wrong type! Insert valid type: ")
         your_type = input()
     communication(message, your_type)
+    
+main()
