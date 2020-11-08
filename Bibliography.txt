@@ -1,3 +1,0 @@
-1. https://www.techwithtim.net/tutorials/socket-programming/
-2. https://devqa.io/encrypt-decrypt-data-python/
-3. https://profs.info.uaic.ro/~liliana.cojocaru/Laborator2.pdf
